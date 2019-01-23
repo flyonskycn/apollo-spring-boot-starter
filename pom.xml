@@ -14,6 +14,7 @@
   	<apollo.version>1.2.0</apollo.version>
 	<archaius.version>0.7.6</archaius.version>
 	<commons.lang.version>3.8.1</commons.lang.version>
+	<spring.cloud.version>2.0.2.RELEASE</spring.cloud.version>
   </properties>
   
   <dependencies>
@@ -30,6 +31,11 @@
     <dependency>
 	    <groupId>org.apache.commons</groupId>
 	    <artifactId>commons-lang3</artifactId>
+	</dependency>
+	<dependency>
+		<groupId>org.springframework.cloud</groupId>
+		<artifactId>spring-cloud-netflix-archaius</artifactId>
+		<version>${spring.cloud.version}</version>
 	</dependency>
   </dependencies>
   
