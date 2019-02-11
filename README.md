@@ -1,7 +1,8 @@
 # apollo-spring-boot-starter
 
 ## 简介
-> 在项目中快速引入apollo配置中心
+> 在项目中快速引入apollo配置中心 
+> [apollo项目详细信息](https://github.com/ctripcorp/apollo)
 
 ## 项目依赖
 apollo-spring-boot-starter依赖于[autoconfigure项目](https://github.com/flyonskycn/autoconfigure)
