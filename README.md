@@ -12,6 +12,7 @@ apollo-spring-boot-starter依赖于[autoconfigure项目](https://github.com/flyo
 <dependency>
     <groupId>org.flyonsky.boot</groupId>
     <artifactId>apollo-spring-boot-starter</artifactId>
+    <version>2.0.7.RELEASE</version>
 </dependency>
 ```
 ### 基本配置
