@@ -16,6 +16,7 @@ apollo-spring-boot-starter依赖于[autoconfigure项目](https://github.com/flyo
 </dependency>
 ```
 ### 基本配置
+在bootstrap.yml文件下增加如下配置
 1. app.id: apollo中分配的对应项目ID
 2. apollo.meta: apollo meta地址
 3. apollo.bootstrap.enabled: 设置为true
