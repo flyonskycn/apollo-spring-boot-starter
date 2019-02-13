@@ -22,6 +22,7 @@ apollo-spring-boot-starter依赖于[autoconfigure项目](https://github.com/flyo
 3. apollo.bootstrap.enabled: 设置为true
 **为何如此设置参见[apollo项目](https://github.com/ctripcorp/apollo/wiki/Java%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)**
 4. apollo.bootstrap.namespaces: 设置配置的命名空间，多个多间之间用","分隔
+5. apollo.cluster: 设置应用部署所在的集成,默认为default
 
 ### apollo-spring-boot-starter增加对了对archaius的支持
 
